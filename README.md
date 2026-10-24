@@ -11,7 +11,7 @@ Repositorio de prácticas de ensamblador x86 (MASM con la biblioteca Irvine32).
 | **Materia** | Lenguajes de Interfaz |
 | **Unidad** | Unidad 2 |
 | **Nombre del alumno** | Román Llanes Oliver Uriel |
-| **Horario** | _Escribe aquí tu horario_ |
+| **Horario** | 10:00 A.M. - 11:00 A.M. |
 | **Docente** | Dr. José Luis Medina Jiménez |
 
 ---
