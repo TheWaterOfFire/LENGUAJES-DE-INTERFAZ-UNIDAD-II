@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Programa: Salto condicional por igualdad (JE)
 ; Descripción: Compara dos valores con CMP y, según la bandera Zero Flag,
 ; muestra un mensaje indicando si los valores son iguales o diferentes.

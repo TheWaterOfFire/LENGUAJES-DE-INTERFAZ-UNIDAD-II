@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Programa: Control de cupo de un estacionamiento
 ; Descripción: Lleva la cuenta de los carros dentro de un estacionamiento con
 ; capacidad de 20. El usuario escribe 1 para registrar una entrada, 2 para una

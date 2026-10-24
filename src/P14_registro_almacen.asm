@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Practica 14 - Registro en almacen
 ; Pide cuantas piezas llegaron (de 1 a 99) como texto, revisa que solo sean
 ; digitos, lo convierte a numero, lo suma a la existencia inicial (25) y muestra

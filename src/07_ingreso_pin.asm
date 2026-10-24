@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Programa: Ingreso de PIN con intentos decrementales
 ; Descripción: Pide un PIN y da 3 intentos. En cada error decrementa el
 ; contador de intentos con DEC; si llega a 0 bloquea el acceso, y si el PIN

@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Programa: Comparación de dos números con saltos condicionales
 ; Descripción: Pide dos números enteros al usuario, los compara con CMP y
 ; usa JE y JG para indicar si son iguales, o cuál de los dos es mayor.

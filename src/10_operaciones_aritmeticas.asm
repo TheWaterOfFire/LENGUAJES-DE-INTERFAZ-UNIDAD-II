@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Programa: Práctica 8 - Operaciones aritméticas
 ; Descripción: Muestra el uso de ADD, SUB, MUL, IMUL, DIV e IDIV, y cómo se
 ; activan las banderas CF (acarreo sin signo) y OF (desbordamiento con signo).

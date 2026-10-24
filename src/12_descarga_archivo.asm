@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Programa: Cálculo del avance de descarga de un archivo
 ; Descripción: Con el tamaño del archivo (100000 bytes) y los bloques ya
 ; descargados (125 de 512 bytes), calcula bytes descargados, bytes pendientes,

@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Practica 12 - Desplazamientos y rotaciones
 ; En este programa pruebo SHL, SHR, SAR y las rotaciones (ROL, ROR, RCL, RCR)
 ; sobre el registro AL, y despues imprimo el resultado en binario y con DumpRegs.

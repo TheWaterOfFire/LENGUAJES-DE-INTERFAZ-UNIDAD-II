@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Programa: Ciclo que lee números hasta capturar un cero
 ; Descripción: Pide números enteros al usuario una y otra vez. El ciclo
 ; termina cuando el usuario escribe 0.

@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Practica 13 - Convertir un numero a texto hexadecimal
 ; Toma el valor 2AB34CD0h que esta en EAX y lo convierte a caracteres sacando
 ; cuatro bits a la vez (un digito hexadecimal), de derecha a izquierda, y los

@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Programa: Ciclo numérico con LOOP
 ; Descripción: Imprime en consola los números del 5 al 1 usando el registro
 ; ECX como contador y la instrucción LOOP para repetir el bloque.

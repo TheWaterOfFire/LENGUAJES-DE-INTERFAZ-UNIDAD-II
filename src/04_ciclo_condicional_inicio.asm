@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Programa: Ciclo condicional con la condición al inicio (while)
 ; Descripción: Imprime los números del 1 al 10. La condición de salida se
 ; revisa antes de cada vuelta, como en un ciclo while.

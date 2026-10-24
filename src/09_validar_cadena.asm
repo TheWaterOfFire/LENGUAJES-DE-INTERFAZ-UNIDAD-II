@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Programa: Captura de cadena con formato
 ; Descripción: Lee una cadena con ReadString y valida que tenga el formato
 ; AAA-999: exactamente 7 caracteres, 3 letras mayúsculas, un guion y

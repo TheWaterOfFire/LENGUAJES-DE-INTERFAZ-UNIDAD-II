@@ -1,6 +1,6 @@
 ; Materia: Lenguajes de Interfaz
 ; Alumno: Román Llanes Oliver Uriel
-; Horario: (escribe aquí tu horario)
+; Horario: 10 - 11 A.M.
 ; Docente: Dr. José Luis Medina Jiménez
 ; Práctica: 0 - Hola mundo
 ; Descripción: Muestra el mensaje "Hola mundo" en pantalla para comprobar que

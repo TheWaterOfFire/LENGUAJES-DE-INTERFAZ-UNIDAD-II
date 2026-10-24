@@ -1,4 +1,5 @@
 ; ROMAN LLANES OLIVER URIEL
+; Horario: 10 - 11 A.M.
 ; Practica 11 - Operaciones logicas
 ; Aqui uso AND y OR para trabajar con bits sueltos de un registro, como si fuera
 ; el estado de un aparato (bit 0 = encendido, bit 1 = alarma, bit 2 = conectada).
