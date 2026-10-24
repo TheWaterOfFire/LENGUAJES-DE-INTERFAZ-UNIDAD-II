@@ -1,14 +1,11 @@
-# Carpetas de Visual Studio
 .vs/
 
-# Carpetas de compilación
 Debug/
 Release/
 x64/
 x86/
 Win32/
 
-# Archivos generados al compilar
 *.obj
 *.exe
 *.pdb
@@ -21,12 +18,10 @@ Win32/
 *.VC.db
 *.VC.VC.opendb
 
-# Configuración personal de cada usuario
 *.user
 *.suo
 *.sdf
 *.opensdf
 
-# Sistema
 Thumbs.db
 .DS_Store
